@@ -1,0 +1,2 @@
+0 * * * * /home/ec2-user/operations/dbscripts/backdb_tos3_mysql.sh >> /home/ec2-user/dbbackup.log 2>&1
+30 * * * * /home/ec2-user/operations/dbscripts/backdb_tos3_mongo.sh >> /home/ec2-user/dbbackup.log 2>&1
