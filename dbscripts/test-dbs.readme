@@ -1,0 +1,7 @@
+  
+
+  993  redis-cli -h localhost ping
+  994  mysql -u twothousand -h localhost -p twothousand -e "select count(*) from users;"
+  995  curl -X GET localhost:9200
+  996  mongo -u twothousand -p 'TT99!!!' --host localhost database
+  997  mongo -u twothousand -p 'TT99!!!' --host localhost database --eval 'print("ping -> PONG");'

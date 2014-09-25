@@ -1,0 +1,3 @@
+
+#28024c8fb7f527ee9f1b021e891e28be8012c29f
+sudo replace_in_config.sh /etc/newrelic/nrsysmond.cfg license_key 28024c8fb7f527ee9f1b021e891e28be8012c29f
